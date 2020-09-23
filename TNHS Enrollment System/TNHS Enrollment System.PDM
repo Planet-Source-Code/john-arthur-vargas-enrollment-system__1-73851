@@ -1,0 +1,361 @@
+[Root]
+Most Recent Package=TNHS
+
+
+[Package|TNHS|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\TNHS\Installers\package
+
+[Package|TNHS|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TNHS|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TNHS|Files Found]
+MDAC_TYP.EXE=C:\Documents and Settings\Vargas\My Documents\MDAC_TYP.EXE
+
+[Package|TNHS|Files Released]
+
+[Package|TNHS|Missing Dependency Information]
+C:\WINDOWS\system32\AXmsCtrl.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\Flash8.ocx=
+
+[Package|TNHS|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|TNHS|Files Added]
+G:\TNHS\TNHS Enrollment System\database\db1.mdb=
+G:\TNHS\TNHS Enrollment System\flash\about.swf=
+G:\TNHS\TNHS Enrollment System\flash\flash.swf=
+G:\TNHS\TNHS Enrollment System\flash\flash2.swf=
+G:\TNHS\TNHS Enrollment System\flash\freshmen.swf=
+G:\TNHS\TNHS Enrollment System\flash\image.swf=
+G:\TNHS\TNHS Enrollment System\flash\login-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\regular.swf=
+G:\TNHS\TNHS Enrollment System\flash\reports-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\schedule-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\sms-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\students-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\studinfo-footer.swf=
+G:\TNHS\TNHS Enrollment System\flash\studinfo-header.swf=
+G:\TNHS\TNHS Enrollment System\flash\teachersched.swf=
+G:\TNHS\TNHS Enrollment System\flash\title.swf=
+G:\TNHS\TNHS Enrollment System\flash\transferee.swf=
+G:\TNHS\TNHS Enrollment System\flash\user-header.swf=
+G:\TNHS\TNHS Enrollment System\students\2007-0000.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0001.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0002.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0003.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0004.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0005.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0006.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0007.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0008.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0009.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0010.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0011.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0012.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0013.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0014.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0015.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0016.jpg=
+G:\TNHS\TNHS Enrollment System\students\2007-0017.jpg=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0000.jpg=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0001.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0002.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0003.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0004.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0005.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0006.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0007.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0008.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0009.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0010.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0011.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0012.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0013.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0014.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0015.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0016.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0017.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0018.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0019.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0020.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0021.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0022.JPG=
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0023.JPG=
+
+[Package|TNHS|Files Removed]
+
+[Package|TNHS|Files In Project]
+G:\TNHS\TNHS Enrollment System\TNHS Enrollment System.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Flash8.ocx=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\AXmsCtrl.dll=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Documents and Settings\Vargas\My Documents\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\TNHS\TNHS Enrollment System\database\db1.mdb=Yes
+G:\TNHS\TNHS Enrollment System\flash\about.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\flash.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\flash2.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\freshmen.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\image.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\login-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\regular.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\reports-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\schedule-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\sms-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\students-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\studinfo-footer.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\studinfo-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\teachersched.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\title.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\transferee.swf=Yes
+G:\TNHS\TNHS Enrollment System\flash\user-header.swf=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0000.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0001.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0002.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0003.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0004.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0005.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0006.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0007.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0008.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0009.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0010.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0011.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0012.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0013.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0014.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0015.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0016.jpg=Yes
+G:\TNHS\TNHS Enrollment System\students\2007-0017.jpg=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0000.jpg=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0001.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0002.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0003.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0004.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0005.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0006.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0007.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0008.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0009.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0010.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0011.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0012.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0013.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0014.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0015.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0016.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0017.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0018.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0019.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0020.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0021.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0022.JPG=Yes
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0023.JPG=Yes
+
+[Package|TNHS|Configure Registry Files]
+Applicable=No
+
+[Package|TNHS|Configure Remote Servers]
+Applicable=No
+
+[Package|TNHS|Install Locations]
+G:\TNHS\TNHS Enrollment System\TNHS Enrollment System.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Flash8.ocx=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\AXmsCtrl.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Documents and Settings\Vargas\My Documents\MDAC_TYP.EXE=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\TNHS\TNHS Enrollment System\database\db1.mdb=$(AppPath)\database
+G:\TNHS\TNHS Enrollment System\flash\about.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\flash.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\flash2.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\freshmen.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\image.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\login-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\regular.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\reports-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\schedule-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\sms-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\students-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\studinfo-footer.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\studinfo-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\teachersched.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\title.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\transferee.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\flash\user-header.swf=$(AppPath)\flash
+G:\TNHS\TNHS Enrollment System\students\2007-0000.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0001.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0002.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0003.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0004.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0005.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0006.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0007.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0008.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0009.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0010.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0011.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0012.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0013.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0014.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0015.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0016.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\students\2007-0017.jpg=$(AppPath)\students
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0000.jpg=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0001.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0002.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0003.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0004.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0005.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0006.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0007.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0008.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0009.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0010.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0011.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0012.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0013.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0014.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0015.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0016.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0017.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0018.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0019.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0020.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0021.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0022.JPG=$(AppPath)\usrpic
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0023.JPG=$(AppPath)\usrpic
+
+[Package|TNHS|Configure Shared Files]
+Applicable=Yes
+G:\TNHS\TNHS Enrollment System\TNHS Enrollment System.exe=No
+G:\TNHS\TNHS Enrollment System\database\db1.mdb=No
+G:\TNHS\TNHS Enrollment System\flash\about.swf=No
+G:\TNHS\TNHS Enrollment System\flash\flash.swf=No
+G:\TNHS\TNHS Enrollment System\flash\flash2.swf=No
+G:\TNHS\TNHS Enrollment System\flash\freshmen.swf=No
+G:\TNHS\TNHS Enrollment System\flash\image.swf=No
+G:\TNHS\TNHS Enrollment System\flash\login-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\regular.swf=No
+G:\TNHS\TNHS Enrollment System\flash\reports-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\schedule-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\sms-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\students-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\studinfo-footer.swf=No
+G:\TNHS\TNHS Enrollment System\flash\studinfo-header.swf=No
+G:\TNHS\TNHS Enrollment System\flash\teachersched.swf=No
+G:\TNHS\TNHS Enrollment System\flash\title.swf=No
+G:\TNHS\TNHS Enrollment System\flash\transferee.swf=No
+G:\TNHS\TNHS Enrollment System\flash\user-header.swf=No
+G:\TNHS\TNHS Enrollment System\students\2007-0000.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0001.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0002.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0003.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0004.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0005.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0006.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0007.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0008.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0009.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0010.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0011.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0012.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0013.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0014.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0015.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0016.jpg=No
+G:\TNHS\TNHS Enrollment System\students\2007-0017.jpg=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0000.jpg=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0001.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0002.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0003.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0004.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0005.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0006.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0007.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0008.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0009.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0010.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0011.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0012.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0013.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0014.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0015.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0016.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0017.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0018.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0019.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0020.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0021.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0022.JPG=No
+G:\TNHS\TNHS Enrollment System\usrpic\USR-0023.JPG=No
+
+[Package|TNHS|Distribution]
+Type=single
+Size=
+Title=TNHS Enrollment System
+
+[Package|TNHS|IconGroups]
+Group0=TNHS Enrollment System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|TNHS|TNHS Enrollment System]
+Icon1="TNHS Enrollment System.exe"
+Title1=TNHS Enrollment System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TNHS|Package]
+PackageFolder=G:\TNHS\Installers\package
+ProjectFolder=G:\TNHS\TNHS Enrollment System
+ServerSideCab=
+File1=G:\TNHS\Installers\package\setup.exe
+File2=G:\TNHS\Installers\package\Setup.Lst
+File3=G:\TNHS\Installers\package\TNHS Enrollment System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
